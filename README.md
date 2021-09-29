@@ -1,1 +1,6 @@
-# Forest-Fire-Detrction-System
+# My-Calculator
+I initially saw Al Sweigart's my_first_tic_tac_toe and was amused. I then saw the image shown below posted on Reddit. Assuming that the image was not made up for some fake internet points and also assuming that their friend only used addition, subtraction, multiplication and division then the number of numbers that they would have if statements for would be...
+
+sqrt(9500/4) = 48.7339...
+sqrt(9500/4) ≈ 50 
+So to be true to the "real" story I have only gone from 0-50 however higher numbers can easily be generated too however my Python crashes with larger numbers. I generated one that was 0-1000 and it took up 317 MB of space on my hard drive but was only 20MB after I compressed it to a .rar so I have also attached it.
